@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michael.douglaspdl/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/MikeeD.Cloud9/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelsjmvr&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelsjmvr&show_icons=true&theme=white)
 
 #### MY KNOWLEDGE AND TECHNOLOGIES
 
